@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 24 12:34:17 CEST 2018:
+ Derby The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) változat betöltése: a816c00e-0163-91b6-a858-000006f3fa28 példány
+a(z) C:\Users\Mark\Desktop\Progtech2\Beadando\Beadando\RentMovie adatbázis-könyvtáron: sun.misc.Launcher$AppClassLoader@60e53b93 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\Mark\Desktop\Progtech2\Beadando\Beadando
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Az adatbázis-osztálybetöltő elindult - derby.database.classpath=''
