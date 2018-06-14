@@ -1,2 +1,2 @@
 # RentMovie
-asd
+Filmkölcsönző.
